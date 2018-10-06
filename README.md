@@ -13,7 +13,6 @@ Some simple sames, implemented with Pascal
 ![pascal-games9](https://user-images.githubusercontent.com/7780269/46573040-62889700-c99c-11e8-9e91-7a6eb08cac6d.JPG)
 ![pascal-games10](https://user-images.githubusercontent.com/7780269/46573041-62889700-c99c-11e8-855c-6ad2f559f553.JPG)
 ![pascal-games11](https://user-images.githubusercontent.com/7780269/46573042-63212d80-c99c-11e8-997a-4ab6061ca212.JPG)
-![pascal-games12](https://user-images.githubusercontent.com/7780269/46573043-63212d80-c99c-11e8-8ea1-897c5ae4ec9e.JPG)
 ![pascal-games13](https://user-images.githubusercontent.com/7780269/46573045-63b9c400-c99c-11e8-8209-47a3194acc6d.JPG)
 
 ## Develop and Run
