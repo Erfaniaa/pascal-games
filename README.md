@@ -1,5 +1,5 @@
 # Pascal-Games
-Some simple sames, implemented with Pascal
+Some simple games, implemented with Pascal
 
 ## Screenshots
 ![pascal-games1](https://user-images.githubusercontent.com/7780269/46573032-60bed380-c99c-11e8-9eec-eb89ff795676.JPG)
